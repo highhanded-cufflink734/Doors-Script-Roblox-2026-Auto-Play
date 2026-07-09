@@ -1,0 +1,7 @@
+pygetwindow
+requests
+psutil
+scipy
+tqdm
+colorama
+click

